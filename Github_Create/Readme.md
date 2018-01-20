@@ -1,10 +1,10 @@
-Github:
+Github:<br>
 https://github.com/explore
-github pages:
+github pages:<br>
 https://www.youtube.com/watch?time_continue=520&v=fjj0PXtqzd8
-atom:
+atom:<br>
 https://github.com/kim-codes/kims-dictionary-plugin
-electron:
+electron:<br>
 https://www.youtube.com/watch?time_continue=1745&v=Y5Wx3GCpDQo
-twilio:
+twilio:<br>
 https://www.youtube.com/watch?v=wGJMt1jFgqg
