@@ -19,3 +19,7 @@ A memory leak reduces the performance of the computer by reducing the amount of 
 **RAII**, short for Resource Acquisition Is Initialization, is an approach to the problem unlike garbage collection<br>
 But still memory is finite and will lead to slowing system happen. => **segmentation fault(memory full)**
 
+**Stack overflow** => due to unboundedness.
+Bounded checks  overcomes the problem, but bad efficiency. <br>
+To improve efficiency, things like canary, randomisation, mark memory as read only ,dynamic program analysis etc are used.
+
